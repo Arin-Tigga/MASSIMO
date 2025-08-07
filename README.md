@@ -29,7 +29,7 @@ A modern, responsive restaurant website built with Next.js 13, TypeScript, and T
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Arin-Tigga/MASSIMO
    cd restaurant-ui-main
    ```
 
@@ -170,3 +170,4 @@ For support and questions:
 ---
 
 **MASSIMO Restaurant** - Bringing delicious food to your fingertips! 🍕✨
+
